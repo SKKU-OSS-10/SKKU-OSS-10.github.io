@@ -4,11 +4,11 @@ bio:                'Just Do it and then Be simple.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/profile.png'
-background:         'assets/img/red-background.jpg'
+logo:               'assets/img/profile.jpg'
+background:         'assets/img/placeholder-blue.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://koogk7.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -39,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           https://www.facebook.com/profile.php?id=100004960989680&ref=bookmarks
-github-url:         https://github.com/koogk7?tab=repositories
+facebook:           profile.php?id=100004960989680
+github-url:         koogk7?tab=repositories
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          https://www.instagram.com/ascension_2
+instagram:          ascension_2
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
