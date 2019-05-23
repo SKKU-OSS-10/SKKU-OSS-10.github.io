@@ -22,7 +22,9 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
-                    {% for post in site.posts %} 
+                    {{page.category}}
+                    {% for post in site.posts %}
+                        {{post.category}}
                         {% if post.project == null %}
                         {% if post.category == page.category %}
                     <ul>
