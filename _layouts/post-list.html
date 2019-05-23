@@ -22,9 +22,9 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
-                    {{site.posts}}
                     {% for post in site.posts %} 
                         {% if post.project == null %}
+                        {% if post.category == page.category %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
@@ -33,8 +33,8 @@ layout: compress
                         </li>
                     </ul>
                         {% endif %}
+                        {% endif %}
                     {% endfor %}
-                    {{site}}
                 </div>
             </div>
         </div>
