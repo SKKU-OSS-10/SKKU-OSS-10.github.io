@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d406c10-ae63-43f1-bd72-f261bde4f259" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_layouts/post-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,18 +25,18 @@
         <counts>
           <entry key="2019-05-23-Transaction" value="1" />
           <entry key="editorconfig" value="2" />
-          <entry key="html" value="13" />
+          <entry key="html" value="14" />
           <entry key="jpg" value="3" />
-          <entry key="md" value="16" />
+          <entry key="md" value="18" />
           <entry key="png" value="1" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="13" />
+          <entry key="HTML" value="14" />
           <entry key="Image" value="4" />
-          <entry key="Markdown" value="15" />
+          <entry key="Markdown" value="17" />
           <entry key="PLAIN_TEXT" value="4" />
           <entry key="YAML" value="2" />
         </counts>
@@ -44,14 +44,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="169" />
-          <entry key="md" value="251" />
+          <entry key="md" value="267" />
           <entry key="yml" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="169" />
-          <entry key="Markdown" value="140" />
+          <entry key="Markdown" value="156" />
           <entry key="PLAIN_TEXT" value="111" />
           <entry key="YAML" value="90" />
         </counts>
@@ -69,45 +69,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post-list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="163">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-05-23-Cron.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="276">
-                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="91" column="67" selection-start-line="91" selection-start-column="59" selection-end-line="91" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="115">
-                <caret line="5" column="18" lean-forward="true" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/linux/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="161">
                 <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/posts/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="46">
+                <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -146,8 +143,8 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-23-Transaction.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-23-Cron.md" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
-        <option value="$PROJECT_DIR$/linux/index.md" />
         <option value="$PROJECT_DIR$/_layouts/post-list.html" />
+        <option value="$PROJECT_DIR$/linux/index.md" />
       </list>
     </option>
   </component>
@@ -158,8 +155,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1280" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -180,17 +178,12 @@
             <path>
               <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -210,13 +203,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="pos&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_layouts/post.html&#10;hom&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_layouts/home.html&#10;con&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_config.yml" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_includes/nav.html&#10;pos&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_layouts/post.html&#10;hom&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_layouts/home.html&#10;con&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_config.yml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/linux" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
@@ -243,15 +239,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558604203964</updated>
-      <workItem from="1558604206226" duration="3854000" />
+      <workItem from="1558604206226" duration="4596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3854000" />
+    <option name="totallyTimeSpent" value="4596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="1280" y="0" width="1280" height="1024" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -359,16 +355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/posts/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -397,7 +383,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linux/index.md">
+    <entry file="file://$PROJECT_DIR$/_layouts/post-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="161">
@@ -407,20 +410,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="5" column="18" lean-forward="true" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-23-Cron.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="276">
+          <first_editor relative-caret-position="12">
             <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
@@ -429,15 +422,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1562">
-          <caret line="94" column="21" lean-forward="true" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+        <state relative-caret-position="341">
+          <caret line="91" column="67" selection-start-line="91" selection-start-column="59" selection-end-line="91" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+    <entry file="file://$PROJECT_DIR$/linux/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="161">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
