@@ -49,14 +49,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="181" />
-          <entry key="md" value="2656" />
+          <entry key="md" value="3120" />
           <entry key="yml" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="181" />
-          <entry key="Markdown" value="2542" />
+          <entry key="Markdown" value="3006" />
           <entry key="PLAIN_TEXT" value="114" />
           <entry key="YAML" value="90" />
         </counts>
@@ -69,8 +69,8 @@
         <entry file="file://$PROJECT_DIR$/about/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="400">
-                <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+              <first_editor relative-caret-position="171">
+                <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -224,12 +224,12 @@
       <workItem from="1559129042634" duration="592000" />
       <workItem from="1559132340959" duration="1385000" />
       <workItem from="1559581454583" duration="467000" />
-      <workItem from="1563528396554" duration="5305000" />
+      <workItem from="1563528396554" duration="6665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14771000" />
+    <option name="totallyTimeSpent" value="16131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -549,8 +549,8 @@
     <entry file="file://$PROJECT_DIR$/about/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="400">
-            <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <first_editor relative-caret-position="171">
+            <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
