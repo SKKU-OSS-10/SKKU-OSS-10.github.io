@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About the 
 tags: [about, introduction]
 date: 2016-03-21
 comments: false
@@ -17,13 +17,15 @@ comments: false
 >
 
 *  ***(주) 이노메틱 (2018.12 ~ 2019.06)***
-   >경매 정보 제공사이트 Back-End 개발 
+   >경매 정보 제공사이트 Back-End 개발   
    >법원 경매 정보 자동 파싱 크롤러 및 서버 구축  
    >네이버 카페 및 페이스북 자동 포스팅 및 게시물 관리  
    >사용 스펙 : django, elasticsearch, selenium, javascript
    [(Demo 영상)](https://www.youtube.com/watch?v=XETll-XRgtk&t=154s) 
 
 *  ***구글  - 머신러닝 스터티잼 심화반 이수 (2019.06 ~ 2019.07)***
+    > ![](https://www.coursera.org/api/certificate.v1/pdf/SPVVXAEKAD7M)
+    <embed width="100%" height="100%" name="plugin" id="plugin" src="https://www.coursera.org/api/certificate.v1/pdf/SPVVXAEKAD7M" type="application/pdf" internalinstanceid="9">
 
 ## 프로젝트
 
