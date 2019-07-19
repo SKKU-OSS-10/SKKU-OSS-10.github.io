@@ -10,7 +10,7 @@ category: database
 ---
 
 
-+ Transaction 이란
++ Transaction 이란 테스트
 
   DB의 상태를 변환시키는 **하나의 논리적인 작업 단위를 구성하는 연산들의 집합**이다.
 
@@ -22,7 +22,7 @@ category: database
 
   ​	c.  B계좌의 잔액을 확인
 
-  ​	d. B계좌의 금액에서 이체할 금액을 더하고 다시 저장
+  ​	d.  B계좌의 금액에서 이체할 금액을 더하고 다시 저장
 
   a~d의 과정들은 모두 합쳐저 계좌이체라는 하나의 작업단위(트랜잭션)을 구성, 트랜잭션은 항상 all or nothing 원칙을 만족해야 한다. 즉 완료를 하던가(commit) 다시 원래의 상태로 돌아가던가(rollback) 둘중 하나는 만족해야 한다. 절대 partoally Done 형태로 끝나서는 안된다.
 
