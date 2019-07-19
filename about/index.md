@@ -7,21 +7,21 @@ comments: false
 ---
     
 ## 학력
-* 김해 대청초등학교 졸업 (2003 ~ 2009)
-* 김해 장유중학교 졸업 (2009 ~ 2012)
 * 김해 율하고등학교 졸업 (2012 ~ 2015)
 * 부산대학교 정보컴퓨터공학부 재학중 (2015~)
 
 ## 경력
 *  ***(주) 유이수 (2018.06 ~ 2018.08)***
-   * 모바일 쇼핑웹 Front-End 개발
-   * 사용 스펙 : javascript, jsp, bootstarp, spring
+   > 모바일 쇼핑웹 Front-End 개발  
+   > 사용 스펙 : javascript, jsp, bootstarp, spring
+>
 
 *  ***(주) 이노메틱 (2018.12 ~ 2019.06)***
-   * 경매 정보 제공사이트 Back-End 개발  [(Demo 영상)](https://www.youtube.com/watch?v=XETll-XRgtk&t=154s)
-   * 법원 경매 정보 자동 파싱 크롤러 및 서버 구축
-   * 네이버 카페 및 페이스북 자동 포스팅 및 게시물 관리
-   * 사용 스펙 : django, elasticsearch, selenium, javascript
+   >경매 정보 제공사이트 Back-End 개발 
+   >법원 경매 정보 자동 파싱 크롤러 및 서버 구축  
+   >네이버 카페 및 페이스북 자동 포스팅 및 게시물 관리  
+   >사용 스펙 : django, elasticsearch, selenium, javascript
+   [(Demo 영상)](https://www.youtube.com/watch?v=XETll-XRgtk&t=154s) 
 
 *  ***구글  - 머신러닝 스터티잼 심화반 이수 (2019.06 ~ 2019.07)***
 
