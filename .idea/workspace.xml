@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d406c10-ae63-43f1-bd72-f261bde4f259" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2012-05-23-readability-feature-post.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2013-05-22-sample-post-images.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2013-06-25-video-post.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2013-08-16-code-highlighting-post.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2015-08-10-mathjax-example.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-03-20-markdown-syntax1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-23-transaction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-23-transaction.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-29-react-todolist.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-29-react-todolist.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="93" column="56" lean-forward="true" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="56" />
+            <state relative-caret-position="387">
+              <caret line="91" column="56" lean-forward="true" selection-start-line="91" selection-start-column="56" selection-end-line="91" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -198,6 +194,11 @@
             <path>
               <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -266,19 +267,18 @@
       <workItem from="1559129042634" duration="592000" />
       <workItem from="1559132340959" duration="1385000" />
       <workItem from="1559581454583" duration="467000" />
-      <workItem from="1563528396554" duration="2041000" />
+      <workItem from="1563528396554" duration="2251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11507000" />
+    <option name="totallyTimeSpent" value="11717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -583,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="93" column="56" lean-forward="true" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="56" />
+        <state relative-caret-position="387">
+          <caret line="91" column="56" lean-forward="true" selection-start-line="91" selection-start-column="56" selection-end-line="91" selection-end-column="56" />
         </state>
       </provider>
     </entry>
