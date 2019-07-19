@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About the 
+title: About Me
 tags: [about, introduction]
 date: 2016-03-21
 comments: false
 ---
-    
+   
 ## 학력
 * 김해 율하고등학교 졸업 (2012 ~ 2015)
 * 부산대학교 정보컴퓨터공학부 재학중 (2015~)
@@ -26,8 +26,8 @@ comments: false
    [(Demo 영상)](https://www.youtube.com/watch?v=XETll-XRgtk&t=154s) 
 
 *  ***구글 - 머신러닝 스터티잼 심화반 이수 (2019.06 ~ 2019.07)***
-    > ![수료증](https://ibb.co/KxvdqZ4)  
-    ![](https://ibb.co/TTyQfTr)
+    > ![](https://user-images.githubusercontent.com/48513360/61533507-12c91700-aa68-11e9-9118-fefb53aef348.png)  
+    ![](https://user-images.githubusercontent.com/48513360/61533516-152b7100-aa68-11e9-9d3e-4113ca37f951.png)
 ---
 
 ## 프로젝트
@@ -41,8 +41,7 @@ comments: false
 
 *  ***키오스크 UML 및 유즈케이스 설계 (2018.10 ~ 2018.12)***
     > 학부 3-2, 소프트웨어 공학 텀프르젝트  
-    UML  
-    ![](https://ibb.co/V3Hr7yW)
+    ![](https://user-images.githubusercontent.com/48513360/61533633-65a2ce80-aa68-11e9-817c-d06ae2e7518c.png)
 
 *  ***교내 학부 연구프로젝트 (2018.10 ~ 2019.01)***
    > 인공지능을 이용한 비행기 날개 좌표를 통한 비행기 성능 예측  
@@ -50,8 +49,11 @@ comments: false
     
 *  ***2018 S/W Challenge 층간소음 솔루션 (2018.12 ~ 2019.01)***
     > 공동주택을 타켓으로 한 층간소음 솔루션 제시   
-    ![](https://ibb.co/pfqtkyg)
-    ![](https://ibb.co/kSKJXhG)
+    ![](https://user-images.githubusercontent.com/48513360/61533878-042f2f80-aa69-11e9-9744-d325326410e9.png)
+
+*  ***삼성 지원서 자동 성적 입력(2019.04 ~ 2019. 06)***
+    > 삼성 지원시 입력하는 성적정보를 자동으로 파싱해서 입력하는 프로그램 구현  
+    > 사용스펙 : python, bs4, selenium
     
 *  ***패션 SNS 서비스 (2019.04 ~ 2019. 06)***
     > 학부 4-1, 팀프로젝트  
