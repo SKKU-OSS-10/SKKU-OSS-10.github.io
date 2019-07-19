@@ -8,6 +8,7 @@ tag:
 - SamSung
 - Parsing
 - Auto
+- post
 comments: true
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bPMYSqB1dVQ" frameborder="0"> </iframe>
