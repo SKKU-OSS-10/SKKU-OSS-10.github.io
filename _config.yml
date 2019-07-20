@@ -38,9 +38,9 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
+#twitter:            username
 facebook:           profile.php?id=100004960989680
-github-url:         koogk7?tab=repositories
+github-url:         koogk7
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -50,7 +50,7 @@ instagram:          ascension_2
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
