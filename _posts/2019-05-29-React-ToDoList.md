@@ -4,7 +4,7 @@ title: React-Tutorial, To Do List
 excerpt: " 얼마전에 진행했던 리액트 튜토리얼에 대한 간단한 리뷰를 작성하게 되었다. 소스코드 전체는 [여기](https://github.com/koogk7/React_ToDoList)서 확인 할 수 있으며"
 tags: [react, tutorial, to do list]
 comments: true
-categories: [linux, posts]
+category: react
 ---
 
 얼마전에 진행했던 리액트 튜토리얼에 대한 간단한 리뷰를 작성하게 되었다. 소스코드 전체는 [여기](https://github.com/koogk7/React_ToDoList)서 확인 할 수 있으며 학습을 위해 작성한 자료로 사실과 다른 부분이 있을 수있다.(지적해주시면 감사하겠습니다!)
