@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d406c10-ae63-43f1-bd72-f261bde4f259" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-23-cron.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-23-cron.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-29-react-todolist.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-29-react-todolist.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,27 +31,27 @@
           <entry key="Gemfile" value="2" />
           <entry key="editorconfig" value="3" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="27" />
+          <entry key="html" value="28" />
           <entry key="jpg" value="3" />
-          <entry key="md" value="62" />
+          <entry key="md" value="65" />
           <entry key="png" value="1" />
-          <entry key="scss" value="1" />
-          <entry key="yml" value="4" />
+          <entry key="scss" value="2" />
+          <entry key="yml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="27" />
+          <entry key="HTML" value="28" />
           <entry key="Image" value="4" />
-          <entry key="Markdown" value="60" />
+          <entry key="Markdown" value="63" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="SCSS" value="1" />
-          <entry key="YAML" value="4" />
+          <entry key="SCSS" value="2" />
+          <entry key="YAML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="215" />
+          <entry key="html" value="239" />
           <entry key="md" value="3585" />
           <entry key="scss" value="4" />
           <entry key="yml" value="92" />
@@ -61,7 +59,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="215" />
+          <entry key="HTML" value="239" />
           <entry key="Markdown" value="3471" />
           <entry key="PLAIN_TEXT" value="114" />
           <entry key="SCSS" value="4" />
@@ -84,8 +82,41 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+            <state relative-caret-position="362">
+              <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2016-03-21-moon-theme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="188">
+                <caret line="77" column="20" lean-forward="true" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/posts/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="92">
+                <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -111,6 +142,8 @@
       <find>All</find>
       <find>blockquote</find>
       <find>center</find>
+      <find>_posts</find>
+      <find>1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -172,6 +205,11 @@
             <path>
               <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -203,7 +241,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="home&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_layouts/home.html&#10;home.tm&#9;null&#9;null&#10;nav&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_includes/nav.html&#10;pos&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_layouts/post.html&#10;hom&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_layouts/home.html&#10;con&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_config.yml" />
+    <property name="SearchEverywhereHistoryKey" value="navigation&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_data/navigation.yml&#10;sitem&#9;null&#9;null&#10;home&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_layouts/home.html&#10;home.tm&#9;null&#9;null&#10;nav&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_includes/nav.html&#10;pos&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_layouts/post.html&#10;hom&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_layouts/home.html&#10;con&#9;FILE&#9;file:///Applications/전공정리/Blog/koogk7.github.io/_config.yml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -247,12 +285,12 @@
       <workItem from="1559132340959" duration="1385000" />
       <workItem from="1559581454583" duration="467000" />
       <workItem from="1563528396554" duration="9515000" />
-      <workItem from="1563604213081" duration="655000" />
+      <workItem from="1563604213081" duration="1125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19636000" />
+    <option name="totallyTimeSpent" value="20106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -344,27 +382,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/posts/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="138">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2012-05-23-readability-feature-post.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-03-21-moon-theme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.editorconfig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -372,22 +390,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-49" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" />
-    <entry file="file://$PROJECT_DIR$/_layouts/post-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -518,10 +521,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/vendor/font-awesome/_icons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="237" column="1" selection-start-line="237" selection-start-column="1" selection-end-line="237" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/navigation.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-03-21-moon-theme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="188">
+            <caret line="77" column="20" lean-forward="true" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="437">
+            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        <state relative-caret-position="362">
+          <caret line="37" column="49" lean-forward="true" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
         </state>
       </provider>
     </entry>
