@@ -3,7 +3,7 @@ layout: post
 title: "데이터베이스 기술면접 대비 트랜잭션"
 date: 2012-05-23
 excerpt: " Transaction 이란
-            DB의 상태를 변환시키는 **하나의 논리적인 작업 단위를 구성하는 연산들의 집합"
+            DB의 상태를 변환시키는 하나의 논리적인 작업 단위를 구성하는 연산들의 집합"
 tags: [database, transaction, 기술면접]
 comments: false
 category: database
