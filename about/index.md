@@ -46,15 +46,16 @@ comments: false
 
 *  **키오스크 UML 및 유즈케이스 설계 (2018.10 ~ 2018.12)**
     > 학부 3-2, 소프트웨어 공학 텀프르젝트  
-    ### ![](https://user-images.githubusercontent.com/48513360/61533633-65a2ce80-aa68-11e9-817c-d06ae2e7518c.png)
+   ![](https://user-images.githubusercontent.com/48513360/61533633-65a2ce80-aa68-11e9-817c-d06ae2e7518c.png)
 
-*  **교내 학부 연구프로젝트 (2018.10 ~ 2019.01)**
-   > 인공지능을 이용한 비행기 날개 좌표를 통한 비행기 성능 예측  
-   > 사용 스펙 : keras, numpy, pandas, python  
+*  **인공지능을 이용한 비행기 날개 좌표를 통한 비행기 성능 예측 (2018.10 ~ 2019.01)**
+   > 교내 학부 연구프로젝트, DNN을 이용한 비행기 날개 성능 예측 프로젝트  
+   사용 스펙 : keras, numpy, pandas, python  
+  [결과보고서 보기](https://drive.google.com/file/d/1WibNX1YPJ8TC2GcGxITUD-u5upOeZd6M/view?usp=sharing)   
     
 *  **2018 S/W Challenge 층간소음 솔루션 (2018.12 ~ 2019.01)**
     > 공동주택을 타켓으로 한 층간소음 솔루션 제시   
-    ### ![](https://user-images.githubusercontent.com/48513360/61533878-042f2f80-aa69-11e9-9744-d325326410e9.png)
+    ![](https://user-images.githubusercontent.com/48513360/61533878-042f2f80-aa69-11e9-9744-d325326410e9.png)
 
 *  **삼성 지원서 자동 성적 입력(2019.04 ~ 2019. 06)**
     > 삼성 지원시 입력하는 성적정보를 자동으로 파싱해서 입력하는 프로그램 구현  
@@ -62,7 +63,7 @@ comments: false
     [Demo 영상](https://www.youtube.com/watch?v=bPMYSqB1dVQ&t=7s)
     
 *  **패션 SNS 서비스 (2019.04 ~ 2019. 06)**
-    > 학부 4-1, 팀프로젝트  
+    > 학부 4-1, 팀프로젝트, 메인개발자 담당  
     Fashion에 특화된 SNS 서비스 개발 (채팅, 해시태그, 타임라인, 패션잡지 등의 기능 구현)  
     에자일 기법 적용, Vivify Scrum, Slack을 통해 협업 및 일정관리 진행  
     사용 스펙 : Spring, jpa, javascript, jsp, aws  
@@ -73,12 +74,12 @@ comments: false
       대용량 아키텍처에 대한 고민
       
 *  **Breathable, 환기 의사결정 시스템(2019.07.24 ~ 26)**
-    > 제 4회 부산 ICT 해커톤 최우수작품  
+    > 제 4회 부산 ICT 해커톤 최우수작품, 서버 및 데이터 시각화 담당  
      실내, 실외 공기질 센싱 및 정량화 이후 실시간 데이터 시각화
-     사용 스펙 : javascript, djanog, chart js
-     [Demo 영상]()  
+     사용 스펙 : javascript, djanog, chart js  
+     [Demo 영상](https://youtu.be/yriJoONIbaU)
     ![](https://user-images.githubusercontent.com/48513360/61992825-1aa73d80-b09e-11e9-952c-509184b38c14.png)
 
 *  **블록체인을 이용한 학생회 장부 자동기록 시스템 (2019.07 ~ )**
     > 학부 졸업과제
-    ### ![](https://user-images.githubusercontent.com/48513360/61535089-50c83a00-aa6c-11e9-9ebf-e96712aff763.png)
+    ![](https://user-images.githubusercontent.com/48513360/61535089-50c83a00-aa6c-11e9-9ebf-e96712aff763.png)
