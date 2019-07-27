@@ -27,7 +27,10 @@ comments: false
    사용 스펙 : django, elasticsearch, selenium, javascript     
     [Demo 영상](https://www.youtube.com/watch?v=XETll-XRgtk&t=154s) 
 
+## 수상 및 자격증
 
+* 제 4회 부산 ICT 융합 해커톤 최우수상 (2019.07.24 ~ 2018.07.26)
+   
 *  **구글 - 머신러닝 스터티잼 심화반 이수 (2019.06 ~ 2019.07)**
     ![](https://user-images.githubusercontent.com/48513360/61533507-12c91700-aa68-11e9-9118-fefb53aef348.png)  
     ![](https://user-images.githubusercontent.com/48513360/61533516-152b7100-aa68-11e9-9d3e-4113ca37f951.png)
@@ -68,6 +71,13 @@ comments: false
 *  **D2 Campus Fest, TimeLine (2019.07 ~ )**
     > 4-1 팀프로젝트 리팩토링   
       대용량 아키텍처에 대한 고민
+      
+*  **Breathable, 환기 의사결정 시스템(2019.07.24 ~ 26)**
+    > 제 4회 부산 ICT 해커톤 최우수작품  
+     실내, 실외 공기질 센싱 및 정량화 이후 실시간 데이터 시각화
+     사용 스펙 : javascript, djanog, chart js
+     [Demo 영상]()  
+    ![](https://user-images.githubusercontent.com/48513360/61992825-1aa73d80-b09e-11e9-952c-509184b38c14.png)
 
 *  **블록체인을 이용한 학생회 장부 자동기록 시스템 (2019.07 ~ )**
     > 학부 졸업과제
