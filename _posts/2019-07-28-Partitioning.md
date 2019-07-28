@@ -2,8 +2,7 @@
 layout: post
 title: "Partitioning"
 date: 2019-07-28
-excerpt: " Transaction 이란
-            DB의 상태를 변환시키는 하나의 논리적인 작업 단위를 구성하는 연산들의 집합"
+excerpt: " 이번에 D2 Fest mini 프로젝트를 진행하면서, 대용량 아키텍처에 대해 처음으로 생각해보게 되었다."
 tags: [database, partitioning, 기술면접]
 comments: false
 category: database
@@ -107,7 +106,7 @@ category: database
   - 파티션 테이블에서는 외래키 사용이 불가능
   - 파티션 테이블은 Full Text Index 생성이 불가능
   
-  
+  <br>
  # Reference 
- Mysql : https://12bme.tistory.com/48
+ Mysql : https://12bme.tistory.com/48  
  개념 : https://gmlwjd9405.github.io/2018/09/24/db-partitioning.html
