@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d406c10-ae63-43f1-bd72-f261bde4f259" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-30-D2 보고서.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-30-D2 보고서.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -58,7 +59,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="256" />
-          <entry key="md" value="4505" />
+          <entry key="md" value="4722" />
           <entry key="scss" value="4" />
           <entry key="yml" value="92" />
         </counts>
@@ -66,7 +67,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="256" />
-          <entry key="Markdown" value="4300" />
+          <entry key="Markdown" value="4517" />
           <entry key="PLAIN_TEXT" value="205" />
           <entry key="SCSS" value="4" />
           <entry key="YAML" value="92" />
@@ -80,8 +81,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-07-30-D2 보고서.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="310">
-                <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <first_editor relative-caret-position="2628">
+                <caret line="118" column="4" lean-forward="true" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -92,8 +93,8 @@
         <entry file="file://$PROJECT_DIR$/about/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="416">
-                <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+              <first_editor relative-caret-position="372">
+                <caret line="90" column="42" lean-forward="true" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
               </first_editor>
               <second_editor />
             </state>
@@ -270,19 +271,19 @@
       <workItem from="1564303325390" duration="4092000" />
       <workItem from="1564410485536" duration="1872000" />
       <workItem from="1564563470411" duration="1464000" />
-      <workItem from="1565184414579" duration="903000" />
+      <workItem from="1565184414579" duration="1454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33519000" />
+    <option name="totallyTimeSpent" value="34070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.2494043" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -623,8 +624,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="310">
-            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <first_editor relative-caret-position="2628">
+            <caret line="118" column="4" lean-forward="true" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -633,8 +634,8 @@
     <entry file="file://$PROJECT_DIR$/about/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="416">
-            <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
+          <first_editor relative-caret-position="372">
+            <caret line="90" column="42" lean-forward="true" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
           </first_editor>
           <second_editor />
         </state>
