@@ -29,7 +29,7 @@ comments: false
 
 ## 수상 및 자격증
 
-* 제 4회 부산 ICT 융합 해커톤 최우수상 (2019.07.24 ~ 2018.07.26)
+* **제 4회 부산 ICT 융합 해커톤 최우수상 (2019.07.24 ~ 2018.07.26)**
    
 *  **구글 - 머신러닝 스터티잼 심화반 이수 (2019.06 ~ 2019.07)**
     ![](https://user-images.githubusercontent.com/48513360/61533507-12c91700-aa68-11e9-9118-fefb53aef348.png)  
@@ -48,7 +48,7 @@ comments: false
     > 학부 3-2, 소프트웨어 공학 텀프르젝트  
    ![](https://user-images.githubusercontent.com/48513360/61533633-65a2ce80-aa68-11e9-817c-d06ae2e7518c.png)
 
-*  **인공지능을 이용한 비행기 날개 좌표를 통한 비행기 성능 예측 (2018.10 ~ 2019.01)**
+*  **DNN 기반 비행기 날개 좌표를 통한 비행기 성능 예측 (2018.10 ~ 2019.01)**
    > 교내 학부 연구프로젝트, DNN을 이용한 비행기 날개 성능 예측 프로젝트  
    사용 스펙 : keras, numpy, pandas, python  
   [결과보고서 보기](https://drive.google.com/file/d/1WibNX1YPJ8TC2GcGxITUD-u5upOeZd6M/view?usp=sharing)   

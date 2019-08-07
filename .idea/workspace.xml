@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d406c10-ae63-43f1-bd72-f261bde4f259" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-30-D2 보고서.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-30-D2 보고서.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,7 +58,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="256" />
-          <entry key="md" value="4403" />
+          <entry key="md" value="4505" />
           <entry key="scss" value="4" />
           <entry key="yml" value="92" />
         </counts>
@@ -66,7 +66,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="256" />
-          <entry key="Markdown" value="4198" />
+          <entry key="Markdown" value="4300" />
           <entry key="PLAIN_TEXT" value="205" />
           <entry key="SCSS" value="4" />
           <entry key="YAML" value="92" />
@@ -76,24 +76,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-07-30-D2 보고서.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="123">
-                <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
+              <first_editor relative-caret-position="310">
+                <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-348">
-                <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <first_editor relative-caret-position="416">
+                <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
               </first_editor>
               <second_editor />
             </state>
@@ -154,13 +154,13 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-23-cron.md" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/_layouts/package.json" />
-        <option value="$PROJECT_DIR$/about/index.md" />
         <option value="$PROJECT_DIR$/review/index.md" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_posts/2019-07-28-Partitioning.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-29-Redis-Spring.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-28-부산해커톤후기.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-30-D2 보고서.md" />
+        <option value="$PROJECT_DIR$/about/index.md" />
       </list>
     </option>
   </component>
@@ -209,25 +209,6 @@
               <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
-              <item name="d2_review" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,12 +270,12 @@
       <workItem from="1564303325390" duration="4092000" />
       <workItem from="1564410485536" duration="1872000" />
       <workItem from="1564563470411" duration="1464000" />
-      <workItem from="1565184414579" duration="661000" />
+      <workItem from="1565184414579" duration="903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33277000" />
+    <option name="totallyTimeSpent" value="33519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -634,16 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-348">
-            <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-30-D2 보고서.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -652,8 +623,18 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="123">
-            <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
+          <first_editor relative-caret-position="310">
+            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
           </first_editor>
           <second_editor />
         </state>
