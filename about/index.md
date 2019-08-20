@@ -33,6 +33,8 @@ comments: false
 ## 수상 및 자격증
 
 * **제 4회 부산 ICT 융합 해커톤 최우수상 (2019.07.24 ~ 2018.07.26)**
+
+* **제 7회 D2 CAMPUS FEST mini 우수상 (2019.07.02 ~ 2018.07.31)**
    
 *  **구글 - 머신러닝 스터티잼 심화반 이수 (2019.06 ~ 2019.07)**
     ![](https://user-images.githubusercontent.com/48513360/61533507-12c91700-aa68-11e9-9118-fefb53aef348.png)  
@@ -87,6 +89,7 @@ comments: false
 <br>
 
 *  **D2 Campus Fest, TimeLine (2019.07.02 ~ 30)**
+    - 제 7회 D2 CAMPUS FEST mini 타임라인 - 우수상
     - 4-1 팀프로젝트 리팩토링   
     - 대용량 아키텍처 및 예외 핸들링에 대한 고민
     - 메인 개발 및 설계 담당
