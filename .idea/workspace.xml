@@ -22,8 +22,8 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -36,7 +36,7 @@
           <entry key="html" value="28" />
           <entry key="jpg" value="3" />
           <entry key="json" value="1" />
-          <entry key="md" value="85" />
+          <entry key="md" value="89" />
           <entry key="png" value="4" />
           <entry key="scss" value="2" />
           <entry key="yml" value="5" />
@@ -47,7 +47,7 @@
           <entry key="HTML" value="28" />
           <entry key="Image" value="7" />
           <entry key="JSON" value="1" />
-          <entry key="Markdown" value="81" />
+          <entry key="Markdown" value="85" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="SCSS" value="2" />
           <entry key="YAML" value="5" />
@@ -56,7 +56,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="256" />
-          <entry key="md" value="4826" />
+          <entry key="md" value="10937" />
           <entry key="scss" value="4" />
           <entry key="yml" value="92" />
         </counts>
@@ -64,7 +64,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="256" />
-          <entry key="Markdown" value="4621" />
+          <entry key="Markdown" value="10732" />
           <entry key="PLAIN_TEXT" value="205" />
           <entry key="SCSS" value="4" />
           <entry key="YAML" value="92" />
@@ -74,24 +74,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-07-30-D2 보고서.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-597">
-                <caret line="95" lean-forward="true" selection-end-line="164" />
+              <first_editor relative-caret-position="1686">
+                <caret line="93" column="30" lean-forward="true" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about/index.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-08-20-D2-Campus-Fest-후기.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <first_editor relative-caret-position="138">
+                <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -159,6 +159,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-07-28-부산해커톤후기.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-30-D2 보고서.md" />
         <option value="$PROJECT_DIR$/about/index.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-08-20-D2-Campus-Fest-후기.md" />
       </list>
     </option>
   </component>
@@ -201,11 +202,6 @@
             <path>
               <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="koogk7.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="koogk7.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -224,16 +220,16 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/assets/img" />
-      <recent name="$PROJECT_DIR$/assets/img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/assets/posts/d2_review" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/_posts/assets" />
-      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,18 +265,19 @@
       <workItem from="1564410485536" duration="1872000" />
       <workItem from="1564563470411" duration="1464000" />
       <workItem from="1565184414579" duration="2651000" />
+      <workItem from="1566285366293" duration="6511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35267000" />
+    <option name="totallyTimeSpent" value="41778000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.2494043" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -305,9 +302,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/placeholder-big.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -552,16 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-07-28-부산해커톤후기.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="161">
-            <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-29-Redis-Spring.md">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -597,27 +581,13 @@
     <entry file="file://$PROJECT_DIR$/assets/img/image-20190730233050659.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/assets/img/image-20190730233054472.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/assets/img/image-20190730233050659.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/assets/img/image-20190730233054472.png" />
+    <entry file="file://$PROJECT_DIR$/_posts/assets/img/image-20190730233050659.png" />
     <entry file="file://$PROJECT_DIR$/_posts/2016-03-20-markdown-syntax.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="161">
             <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -631,8 +601,38 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-597">
-            <caret line="95" lean-forward="true" selection-end-line="164" />
+          <first_editor relative-caret-position="955">
+            <caret line="112" column="21" lean-forward="true" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1686">
+            <caret line="93" column="30" lean-forward="true" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-28-부산해커톤후기.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="576">
+            <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-08-20-D2-Campus-Fest-후기.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="138">
+            <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
