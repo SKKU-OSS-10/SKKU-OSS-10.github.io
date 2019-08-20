@@ -95,6 +95,7 @@ comments: false
     - 메인 개발 및 설계 담당
     - 사용 스펙 : Spring, jpa, jwt, security   
     - [결과보고서 보기](https://koogk7.github.io/D2-%EB%B3%B4%EA%B3%A0%EC%84%9C/)
+    - [회고록 보기](https://koogk7.github.io/D2-Campus-Fest-%ED%9B%84%EA%B8%B0/)
   
 <br>  
       
@@ -103,6 +104,7 @@ comments: false
      - 실내, 실외 공기질 센싱 및 정량화 이후 실시간 데이터 시각화  
      - 사용 스펙 : javascript, djanog, chart js    
      - [Demo 영상](https://youtu.be/yriJoONIbaU)
+     - [회고록 보기](https://koogk7.github.io/%EB%B6%80%EC%82%B0%ED%95%B4%EC%BB%A4%ED%86%A4%ED%9B%84%EA%B8%B0/)
      - 구조도  
         ![](https://user-images.githubusercontent.com/48513360/61992825-1aa73d80-b09e-11e9-952c-509184b38c14.png)
 
