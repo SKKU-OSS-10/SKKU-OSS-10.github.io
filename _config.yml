@@ -1,5 +1,5 @@
 # Site
-title:              Tien02
+title:              DeepCodiNet
 bio:                'Just Do it and then Be simple.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
@@ -8,7 +8,7 @@ logo:               'assets/img/profile.jpg'
 background:         'assets/img/placeholder-blue.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://koogk7.github.io
+url:                https://SKKU-OSS-10.github.io
 
 # Jekyll
 permalink:          /:title/
