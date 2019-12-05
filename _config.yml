@@ -1,7 +1,7 @@
 # Site
 title:              DeepCodiNet
-bio:                'Just Do it and then Be simple.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Term Project for OSS @ SKKU'
+description:        "Awesome Recommender System for your OOTD"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile.jpg'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   SKKU-OSS-10
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,14 +37,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              kor8821@naver.com
 #twitter:            username
-facebook:           profile.php?id=100004960989680
-github-url:         koogk7
+#facebook:           profile.php?id=100004960989680
+github-url:         SKKU-OSS-10
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          ascension_2
+#instagram:          ascension_2
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -70,7 +70,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://koogk7.github.io
+    base_url: https://SKKU-OSS-10.github.io
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
