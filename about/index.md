@@ -14,7 +14,7 @@ comments: false
 
 * DeepCodiNet is a project evaluating people’s fashion based on deep learning method.
 * The project is a part of SKKU’s Open Source Software Practice,
-and the project progress data is well visualized in <정적 페이지 주소>
+and the project has implemented on  https://github.com/SKKU-OSS-10/SKKU-OSS-10
 
 ## Dataset
 
