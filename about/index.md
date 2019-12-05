@@ -1,5 +1,3 @@
-# DeepCodiNet
-
 ---
 layout: page
 title: About DeepCodiNet
@@ -7,6 +5,8 @@ tags: [about, introduction]
 date: 2019-12-5
 comments: false
 ---
+
+# DeepCodiNet
 
 ## Introduction
 <이미지>
