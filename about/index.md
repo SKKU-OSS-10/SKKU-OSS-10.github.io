@@ -9,7 +9,8 @@ comments: false
 # DeepCodiNet
 
 ## Introduction
-<이미지>
+
+[!logo_of_DeepCodiNet](/home/bigdatalab/Downloads/logo.png)
 
 * DeepCodiNet is a project evaluating people’s fashion based on deep learning method.
 * The project is a part of SKKU’s Open Source Software Practice,
