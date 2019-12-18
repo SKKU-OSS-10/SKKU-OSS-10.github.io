@@ -1,0 +1,84 @@
+<html lang="ko">
+    
+  <head>
+    <meta charset="utf-8">
+    <title>CSS</title>
+    <style>
+        div{
+            float:left;
+            width: 200px;
+            text-align: center;
+        }
+        #form_div{
+            width:500px;
+        }
+        
+        #pre_img{
+            width:500px;
+            height:500px;
+            border-style: solid;
+        }
+        #ebtn{
+            border:0;
+            margin-top: 150px;
+            margin-left:10px;
+            margin-right:10px;
+            padding: 0px;
+            
+        }
+        #filebutton{
+            width:200px;
+        }
+    </style>
+  </head>
+    <script type="text/javascript">
+var input = 
+ (function loadImageFile() {
+    if (window.FileReader) {
+        var ImagePre; 
+        var ImgReader = new window.FileReader();
+        var fileType = /^(?:image\/bmp|image\/gif|image\/jpeg|image\/png|image\/x\-xwindowdump|image\/x\-portable\-bitmap)$/i; 
+ 
+        ImgReader.onload = function (Event) {
+            if (!ImagePre) {
+                var newPreview = document.getElementById("pre_img");
+                ImagePre = new Image();
+                ImagePre.style.width = "500px";
+                ImagePre.style.height = "500px";
+                newPreview.appendChild(ImagePre);
+            }
+            ImagePre.src = Event.target.result;
+        };
+ 
+        return function () {
+            var img = document.getElementById("filebutton").files;
+            if (!fileType.test(img[0].type)) { 
+             alert("이미지 파일을 업로드 하세요"); 
+             return; 
+            }
+            ImgReader.readAsDataURL(img[0]);
+        }
+    }
+     document.getElementById("pre_img").src = document.getElementById("filebutton").value;
+ 
+      
+})();
+ 
+ 
+</script>
+  <body>
+    <div id="form_div">
+        <form action="fileUpload.jsp" method="post" enctype="multipart/form-data">
+            <div id="pre_img" ></div>
+            <input type="file" id="filebutton" onchange="input();">
+        </form>
+    </div>
+    <div id="btn_div">
+      <button type="button" id="ebtn"><img src = "image_2.png"></button>
+    </div>  
+      
+    <div id="text_div">
+      <p>asd</p>  
+    </div>
+  </body>
+</html>
