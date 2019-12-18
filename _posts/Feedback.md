@@ -3,7 +3,7 @@ layout: post
 title: 첫 발표 및 피드백
 date: 2019-12-05
 excerpt: "피드백"
-tags: [발표, 피드백]
+tags: [발표,피드백]
 comments: false
 ---
 ``
