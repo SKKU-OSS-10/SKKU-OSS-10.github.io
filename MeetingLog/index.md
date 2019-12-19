@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
+title: Meeting logs
 excerpt: "A List of Posts"
 comments: false
 category: MeetingLog
