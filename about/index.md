@@ -18,7 +18,8 @@ and the project progress data is well visualized in https://skku-oss-10.github.i
  We use following databases as our data set:
 * **Training set**: 2016~2019 MUSINSA styling dataset
 
-(available at: https://store.musinsa.com/app/styles/lists?sex=&use_yn_360=&brand=&model=&max_rt=2019&min_rt=2010&year_date=2016&month_date=&display_cnt=60&list_kind=small&sort=rt&page=)
+(available at: https://store.musinsa.com/app/styles/lists?sex=&use_yn_360=&brand=&model=&max_rt=2019&min_rt=2010
+&year_date=2016&month_date=&display_cnt=60&list_kind=small&sort=rt&page=)
 * **Test set**: Clothing-Co-Parsing dataset
 
 (available at: https://github.com/bearpaw/clothing-co-parsing/)
