@@ -11,7 +11,7 @@ comments: false
 ---
 ``
 ## The MIT License (MIT)
-![ic_launcher](logo.png)
+![ic_launcher](.png)
 + Copyright (c) 2016 Taylan Tatlı
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
