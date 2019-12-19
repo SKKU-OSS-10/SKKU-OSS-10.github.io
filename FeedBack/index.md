@@ -6,9 +6,8 @@ excerpt: "피드백"
 tag:
 - Presentation
 - FeedBack
-comments: true
+comments: false
 ---
-``
 #  발표
 
 + 우리가 진행하고 있는 프로젝트에 대한 예비 발표를 오늘 진행하였다.
