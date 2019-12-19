@@ -9,7 +9,6 @@ tag:
 - License
 comments: false
 ---
-``
 ## The MIT License (MIT)
 ![ic_launcher](MITlicense.png)
 + Copyright (c) 2016 Taylan Tatlı
