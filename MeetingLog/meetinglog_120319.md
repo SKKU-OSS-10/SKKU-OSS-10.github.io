@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: post
 title: 첫 회의록
 date: 2019-12-03
 excerpt: "회의록"
