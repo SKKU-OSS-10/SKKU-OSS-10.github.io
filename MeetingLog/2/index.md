@@ -17,6 +17,6 @@ comments: false
 # 역할 분담
 
 + 채진: java scoring module 구현
-+ 지원: detect_image.py 구현, 학습
++ 지원: Clothes Detection 모델 구현, 데이터셋 학습
 + 민석: webpage 구현
 + 윤희: python-java 연동, webpage 포스트 업로드
