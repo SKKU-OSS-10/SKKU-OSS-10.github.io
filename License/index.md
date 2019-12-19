@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Static website 
-date: 2019-12-05
-excerpt: "피드백"
+date: 2019-12-09
+excerpt: "라이센스"
 tag:
 - Presentation
 - FeedBack
