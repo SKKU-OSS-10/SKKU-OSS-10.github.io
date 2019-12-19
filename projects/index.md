@@ -47,6 +47,9 @@ comments: false
 ![CSVFile](./csvFile.JPG)
 
 
+![csvex1](./csvEx.png)
+
+
 # .csv 파일 처리
   위의 raw 데이터를 활용하기 위한 형태로 변형 해줘야 한다. 
 
@@ -69,6 +72,10 @@ comments: false
 여기서 받은 경로를 통해 읽을 이미지를 선택하고, detect_image.py는 한 장의 사진을 분석하여 트레이닝 된 결과와 같이 .csv 파일의 형식으로 출력한다. 
 
 이때 새로 작성한 .csv 파일과 이전에 저장한 빈도수의 값을 비교하여 점수로 환산해준다. 점수는 최대 빈도수로 자신의 수를 나눈 빈도수이다. 
+
+
+![csvex2](./csvEx2.png)
+
 
 ![Sample](./sample.JPG)
 
