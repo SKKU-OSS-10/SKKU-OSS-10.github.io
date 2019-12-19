@@ -5,7 +5,7 @@ excerpt: "Projects"
 comments: false
 ---
 
-##<Data 크롤링, 머신러닝 담당: 김민석, 박지원>
+## <Data 크롤링, 머신러닝 담당: 김민석, 박지원>
 
 # 트레이닝 세트 크롤링
 
@@ -31,7 +31,7 @@ comments: false
 ![TestSet](./testset.JPG)
 
 
-##<사용자 입력, I/O 모듈 담당: 장윤희, 임채진>
+## <사용자 입력, I/O 모듈 담당: 장윤희, 임채진>
 
 # CSV 파일 분석
 
