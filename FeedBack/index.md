@@ -12,7 +12,7 @@ comments: false
 #  발표
 
 + 우리가 진행하고 있는 프로젝트에 대한 예비 발표를 오늘 진행하였다.
-+ 발표 자료는 이 repository에 등록하여 두었다.
++ 발표 자료는 Github repository에 등록하여 두었다.
 + 조교님에게서 발표 후 feedback도 받을 수 있는 매우 의미있는 시간이었다.
 
 # Feedback
